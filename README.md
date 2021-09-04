@@ -1,5 +1,6 @@
 # Titanic-Machine-Learning-from-Disaster
 This dataset is found on the Kaggle website which is an online platform where you can learn a lot about machine learning with Python and R, do data science projects, and join machine learning competitions.  
+
 The Titanic sank on April 15, 1912, during her maiden voyage, after colliding with an iceberg, killing 1502 of the 2224 passengers and crew on board. Translated 32% survival rate. There were insufficient lifeboats for the passengers and crew, which contributed to the shipwreck's high death toll. Although there was a degree of luck involved in surviving the sinking, particular groups of people, such as women, children, and the upper class, were more likely to survive than others.  
 
 In this project I would explore the data and identify a few stages to describe the data science project 
